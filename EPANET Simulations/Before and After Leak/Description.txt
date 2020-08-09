@@ -1,0 +1,8 @@
+**IMPORTANT**
+
+Condition Taken as Leak in this Case:
+Water Outflow from Emitter (Node 269) with
+Emitter coefficient = 100 in Node 269
+
+Changes in Various parameter in Node 269 and Pipe 313
+denotes leak.
